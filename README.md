@@ -1,7 +1,6 @@
 
 
 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20Minju!&fontSize=90)
 
 <div align="center">
@@ -13,6 +12,7 @@
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 </div>
+
 
 <div align="center">
 <h2>⚒ Skills</h2> 
@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
+
 <h3>🌱 Sub (Front-End)</h3>
 
 <img src="https://img.shields.io/badge/AJAX-4A90E2?style=flat-square"/>
@@ -35,6 +36,7 @@
 <img src="https://img.shields.io/badge/Tiles-005577?style=flat-square"/>
 <img src="https://img.shields.io/badge/JSP-0074a2?style=flat-square"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+
 
 <h2>✏ Studying...</h2>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
