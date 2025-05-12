@@ -43,6 +43,3 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
 </div>
 
-<div align="center">
-![rhieee's github stats](https://github-readme-stats.vercel.app/api?username=rhieee&show_icons=true&theme=buefy)
-</div>
